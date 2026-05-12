@@ -82,3 +82,12 @@ Autentikasi, Otorisasi, Manajemen Pengguna
 ## Code Diagram - UserService - Auth Service
 ![AUTH MODEL CODE Diagram](images/auth_service_user_diagram.png)
 
+# Individual / Cyrillo Praditya Soeharto
+Manajemen Kebun Sawit
+## Container Diagram 
+![alt text](images/ManajemenKebunSawit_Container_Diagram.png)
+## Code Diagram - Pembuatan Kebun
+![alt text](images/Pembuatan_Kebun.png)
+## Code Diagram -Model kebun
+![alt text](images/Model_kebun.png)
+

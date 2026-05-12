@@ -12,7 +12,7 @@
 
 ![Deployment Diagram](images/Deployment_Diagram.png)
 
-## Deployment Diagram
+## MySawit Future Architecture
 
 Jika sebelumnya, arsitektur MySawit masih memiliki berbagai kerentanan. Alhasil, kami melakukan pengembangan dengan melakukan shifting dari sekadar VPS biasa ke infrastruktur yang lebih cloud-native dan serverless. Mengenai hal itu, kami akan mengimplementasikan deployment dengan AWS ECS Fargate agar deployment tidak hanya terpaku di satu VPS, tetapi sudah “serverless” karena ekosistem penggunaan server sudah disesuaikan oleh AWS sendiri. Hal ini akhirnya dapat membuat sistem bersifat auto-scale dan zero-downtime deployment. 
 

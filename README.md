@@ -50,6 +50,25 @@ Selain itu, hal krusial lainnya adalah komunikasi antar-service kami rombak tota
 | **Medium** | 2 | R-08, R-09 | Perlu mitigasi di level network (WAF/Cloudflare) |
 | **Low** | 0 | — | — |
 
+
+## Individual / Fernando Lawrence
+
+### Manajemen_Pembayaran
+
+#### Container Diagram
+
+![Manajeme_Pembayaran_Diagram](images/Manajeme_Pembayaran_Diagram.png)
+
+#### Code Diagramg
+
+![Payment_Domain_Model_Diagram](images/Payment_Domain_Model_Diagram.png)
+
+![Payment_Read_Authorization_Diagram](images/Payment_Read_Authorization_Diagram.png)
+
+![Payroll_Event_Diagram](images/Payroll_Event_Diagram.png)
+
+![Payroll_Status_Diagram](images/Payroll_Status_Diagram.png)
+
 # Individual / EVAN HARYO WIDODO
 Autentikasi, Otorisasi, Manajemen Pengguna
 ## Component Diagram - Auth Service
@@ -62,3 +81,4 @@ Autentikasi, Otorisasi, Manajemen Pengguna
 ![AUTH MODEL CODE Diagram](images/auth_service_mandor_diagram.png)
 ## Code Diagram - UserService - Auth Service
 ![AUTH MODEL CODE Diagram](images/auth_service_user_diagram.png)
+

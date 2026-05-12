@@ -49,3 +49,22 @@ Selain itu, hal krusial lainnya adalah komunikasi antar-service kami rombak tota
 | **High** | 5 | R-03, R-05, R-06, R-07, R-10 | Harus diatasi sebelum perilisan produksi untuk menjamin integritas data dan keamanan. |
 | **Medium** | 2 | R-08, R-09 | Perlu mitigasi di level network (WAF/Cloudflare) |
 | **Low** | 0 | — | — |
+
+
+## Individual / Fernando Lawrence
+
+### Manajemen_Pembayaran
+
+#### Container Diagram
+
+![Manajeme_Pembayaran_Diagram](images/Manajeme_Pembayaran_Diagram.png)
+
+#### Code Diagramg
+
+![Payment_Domain_Model_Diagram](images/Payment_Domain_Model_Diagram.png)
+
+![Payment_Read_Authorization_Diagram](images/Payment_Read_Authorization_Diagram.png)
+
+![Payroll_Event_Diagram](images/Payroll_Event_Diagram.png)
+
+![Payroll_Status_Diagram](images/Payroll_Status_Diagram.png)

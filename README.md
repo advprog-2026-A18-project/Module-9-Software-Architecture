@@ -68,3 +68,17 @@ Selain itu, hal krusial lainnya adalah komunikasi antar-service kami rombak tota
 ![Payroll_Event_Diagram](images/Payroll_Event_Diagram.png)
 
 ![Payroll_Status_Diagram](images/Payroll_Status_Diagram.png)
+
+# Individual / EVAN HARYO WIDODO
+Autentikasi, Otorisasi, Manajemen Pengguna
+## Component Diagram - Auth Service
+![AUTH COMPONENT Diagram](images/auth_component_diagram.png)
+## Code Diagram - Model - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_model_diagram.png)
+## Code Diagram - AdminService - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_service_admin_diagram.png)
+## Code Diagram - MandorDiagram - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_service_mandor_diagram.png)
+## Code Diagram - UserService - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_service_user_diagram.png)
+

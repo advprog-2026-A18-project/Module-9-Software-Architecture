@@ -49,3 +49,15 @@ Selain itu, hal krusial lainnya adalah komunikasi antar-service kami rombak tota
 | **High** | 5 | R-03, R-05, R-06, R-07, R-10 | Harus diatasi sebelum perilisan produksi untuk menjamin integritas data dan keamanan. |
 | **Medium** | 2 | R-08, R-09 | Perlu mitigasi di level network (WAF/Cloudflare) |
 | **Low** | 0 | — | — |
+
+# Individual / EVAN HARYO WIDODO
+## Component Diagram - Auth Service
+![AUTH COMPONENT Diagram](images/auth_component_diagram.png)
+## Code Diagram - Model - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_model_diagram.png)
+## Code Diagram - AdminService - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_service_admin_diagram.png)
+## Code Diagram - MandorDiagram - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_service_mandor_diagram.png)
+## Code Diagram - UserService - Auth Service
+![AUTH MODEL CODE Diagram](images/auth_service_user_diagram.png)

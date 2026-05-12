@@ -2,12 +2,12 @@
 
 ## Container Diagram
 
-![Container Diagram](Container_Diagram.png)
+![Container Diagram](images/Container_Diagram.png)
 
 ## Context Diagram
 
-![Context Diagram](Context_Diagram.png)
+![Context Diagram](images/Context_Diagram.png)
 
 ## Deployment Diagram
 
-![Deployment Diagram](Deployment_Diagram.png)
+![Deployment Diagram](images/Deployment_Diagram.png)

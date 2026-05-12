@@ -51,6 +51,7 @@ Selain itu, hal krusial lainnya adalah komunikasi antar-service kami rombak tota
 | **Low** | 0 | — | — |
 
 # Individual / EVAN HARYO WIDODO
+Autentikasi, Otorisasi, Manajemen Pengguna
 ## Component Diagram - Auth Service
 ![AUTH COMPONENT Diagram](images/auth_component_diagram.png)
 ## Code Diagram - Model - Auth Service
